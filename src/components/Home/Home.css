@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+.banner{
+    background-image: url(../../utilities/images/bannerbackground.png);
+    height: 400px;
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.nav-item{
+    color: black !important;
+}
+.btn-red{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+.banner img{
+    height: 400px;
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.allItems ul{
+    display:flex;
+    justify-content: center;
+    
+}
+.allItems ul li{
+    list-style: none;
+    margin-left: 10px;
+}
