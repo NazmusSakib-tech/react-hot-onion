@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Arabic For Beginners (Noorani Qaida)",
+        "duration": "05 Weeks",
+        "languages": "English",
+        "image": "https://www.centreofexcellence.com/media/image/da/10/cc599a40e9599cf0acb5e47cc966.jpeg",
+        "type": "breakfast"
+
+    },
+    {
+        "id": 2,
+        "name": "Memorizing the Holy Quran",
+        "duration": "24 Weeks",
+        "languages": "English",
+        "image": "https://quranforkids.com/wp-content/uploads/2019/11/Memorize-The-Quran-With-Online-Quran-Tutor-01.jpg",
+        "type": "breakfast"
+    },
+    {
+        "id": 3,
+        "name": "Learn Tajweed online",
+        "duration": "03 Week",
+        "languages": "English",
+        "image": "https://i0.wp.com/madrasatelquran.com/wp-content/uploads/2019/03/Learn-Quran-with-Tajweed.jpg?fit=990%2C600&ssl=1",
+        "type": "breakfast"
+    },
+    {
+        "id": 4,
+        "name": "Reading the Holy Quran",
+        "duration": "06 Week",
+        "languages": "English",
+        "image": "https://media.istockphoto.com/photos/muslim-kids-reading-koran-picture-id149054086?k=20&m=149054086&s=612x612&w=0&h=bk0D1rJc_qfSG8UlEJtKXjABhGJEJZvvJLiLozowqZU=",
+        "type": "lunch"
+    },
+    {
+        "id": 5,
+        "name": "Learn Hadith",
+        "duration": "03 Week",
+        "languages": "English",
+        "image": "https://www.readquranbook.com/wp-content/uploads/2017/05/Learn-Islamic-Hadith-Online.jpg",
+        "type": "lunch"
+    },
+    {
+        "id": 6,
+        "name": "FIQH Study",
+        "duration": "06 Week",
+        "languages": "English",
+        "image": "https://www.islamandihsan.com/wp-content/uploads/2019/12/what_is_fiqh_in_islam_1.jpg",
+        "type": "lunch"
+    },
+    {
+        "id": 7,
+        "name": "Quran For Kids",
+        "duration": "12 Week",
+        "languages": "English",
+        "image": "https://arabic-voice.com/wp-content/uploads/2020/03/muslim-kid-character-reading-quran_61841-532.jpg",
+        "type": "dinner"
+    },
+    {
+        "id": 8,
+        "name": "Learn Arabic with grammer",
+        "duration": "06 Week",
+        "languages": "English",
+        "image": "https://i2.wp.com/riwaqalazhar.com/wp-content/uploads/2020/06/Arabic-Course.jpg?resize=1024%2C576&ssl=1",
+        "type": "dinner"
+    },
+    {
+        "id": 9,
+        "name": "How To Pray Salah",
+        "duration": "02 Week",
+        "languages": "English",
+        "image": "https://www.quranmualim.com/wp-content/uploads/2019/12/How-to-Perform-Salah-Namaz-Learn-IslamA.jpg",
+        "type": "dinner"
+    }
+]
